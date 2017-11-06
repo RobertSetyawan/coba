@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Recyclerview</string>
+
+    <string-array name="NIM">
+        <item>NIM : A11.2015.09092</item>
+        <item>NIM : A11.2015.09093</item>
+        <item>NIM : A11.2015.09094</item>
+        <item>NIM : 11.2015.09095</item>
+        <item>NIM : A11.2015.09096</item>
+        <item>NIM : A11.2015.09097</item>
+
+    </string-array>
+
+    <string-array name="Profil">
+        <item>Nama : MHS Udinus</item>
+        <item>Nama : MHS Udinus</item>
+        <item>Nama : MHS Udinus</item>
+        <item>Nama : MHS Udinus</item>
+        <item>Nama : MHS Udinus</item>
+        <item>Nama : MHS Udinus</item>
+
+    </string-array>
+    <string-array name="IPK">
+        <item>IPK : 3.9</item>
+        <item>IPK : 3.5</item>
+        <item>IPK : 3.6</item>
+        <item>IPK : 3.2</item>
+        <item>IPK : 3.9</item>
+        <item>IPK : 3.8</item>
+
+    </string-array>
+</resources>
